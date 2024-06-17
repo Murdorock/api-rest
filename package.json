@@ -1,0 +1,26 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Murdorock/api-rest.git"
+  },
+  "author": "diego marin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Murdorock/api-rest/issues"
+  },
+  "homepage": "https://github.com/Murdorock/api-rest#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}

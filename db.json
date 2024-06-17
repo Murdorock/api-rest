@@ -1,0 +1,28 @@
+{
+    "clientes": [
+        {
+            "id": 1,
+            "nombre": "diegol",
+            "apellido": "Gutierrez",
+            "cedula": 8569321,
+            "correo": "cargut@gmail.com",
+            "telefono": 3012589632
+        },
+        {
+            "id": 2,
+            "nombre": "Sara",
+            "apellido": "Perez",
+            "cedula": 1037852369,
+            "correo": "sarper@hotmail.com",
+            "telefono": 3112542398
+        },
+        {
+            "id": 3,
+            "nombre": "Luis",
+            "apellido": "Figo",
+            "cedula": 763258,
+            "correo": "luifig@yahoo.es",
+            "telefono": 2560014
+        }
+    ]
+}
